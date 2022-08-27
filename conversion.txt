@@ -1,0 +1,10 @@
+Invalid IPv4 address
+Invalid IPv4 address
+Invalid IPv4 address
+Invalid IPv4 address
+120.12.12.12	01111000.00001100.00001100.00001100	170.14.14.14	78.c.c.c	
+12.12.12.12	00001100.00001100.00001100.00001100	14.14.14.14	c.c.c.c	
+Invalid IPv4 address
+Invalid IPv4 address
+Invalid IPv4 address
+Invalid IPv4 address
